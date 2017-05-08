@@ -2,3 +2,4 @@
 sphinx
 #mercurial==3.2.2
 sphinx-patchqueue==0.4.0
+urlparse
